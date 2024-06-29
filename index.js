@@ -85,7 +85,7 @@ try {
 						"writeComprehension",
 					],
 					fromLanguage,
-					isFinalLevel: true,
+					isFinalLevel: false,
 					isV2: true,
 					juicy: true,
 					learningLanguage,
